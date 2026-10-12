@@ -2,9 +2,9 @@
 
 ## 1. Project Objective
 
-The goal of this project is to understand the factors that affect medical insurance charges. I used the US Health Insurance dataset to explore how age, BMI, smoking habits, gender, number of children, and region are related to insurance costs.
+- The goal of this project is to understand the factors that affect medical insurance charges. I used the US Health Insurance dataset to explore how age, BMI, smoking habits, gender, number of children, and region are related to insurance costs.
 
-Through data cleaning, exploratory data analysis (EDA), and visualizations, I wanted to find patterns in the data and understand which factors have the strongest relationship with medical expenses.
+- Through data cleaning, exploratory data analysis (EDA), and visualizations, I wanted to find patterns in the data and understand which factors have the strongest relationship with medical expenses.
 
 ## 2. Key Insights
 
