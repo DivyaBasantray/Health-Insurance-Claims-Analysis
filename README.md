@@ -29,9 +29,7 @@ Overall, the analysis suggests that smoking status and age are the most importan
 - **SciPy:** Used to calculate Pearson correlation and perform chi-square statistical tests.
 - **Jupyter Notebook:** Used to write and run the code, explore the dataset, and document the analysis.
 
-## 4. Dashboard Purpose and Features
-
-This project focuses on exploratory data analysis rather than an interactive Power BI dashboard.
+## 4. EDA Purpose and Features
 
 The main business question was: **Which factors are most closely related to medical insurance charges, and how can we understand the differences in costs between individuals?**
 
