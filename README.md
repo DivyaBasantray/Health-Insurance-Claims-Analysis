@@ -26,7 +26,6 @@ Overall, the analysis suggests that smoking status and age are the most importan
 - **NumPy:** Used for numerical operations.
 - **Matplotlib:** Used to create charts and visualize patterns in the data.
 - **Seaborn:** Used to create histograms, box plots, count plots, and a correlation heatmap.
-- **SciPy:** Used to calculate Pearson correlation and perform chi-square statistical tests.
 - **Jupyter Notebook:** Used to write and run the code, explore the dataset, and document the analysis.
 
 ## 4. EDA Purpose and Features
