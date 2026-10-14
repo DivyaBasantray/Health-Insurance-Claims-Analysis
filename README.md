@@ -56,7 +56,7 @@ The columns include:
 
 - `age`: Age of the individual.
 - `sex`: Gender of the individual.
-- `bmi`: Body Mass Index.
+- `bmi`: Body Mass Index of the individual.
 - `children`: Number of children covered by the insurance.
 - `smoker`: Whether the individual is a smoker.
 - `region`: Residential region in the United States.
