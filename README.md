@@ -1,4 +1,4 @@
-# US Health Insurance Cost Analysis
+# United States Health Insurance Cost Analysis
 
 ## 1. Project Objective
 
